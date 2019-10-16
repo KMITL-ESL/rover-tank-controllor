@@ -1,0 +1,27 @@
+{
+  "name": "rover-tank-controllor",
+  "version": "1.0.0",
+  "description": "Rover-Tank-Controllor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouoam/Rover-Tank-Controllor.git"
+  },
+  "author": "Phumphathai Chansriwong (ouoam2555@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ouoam/Rover-Tank-Controllor/issues"
+  },
+  "homepage": "https://github.com/ouoam/Rover-Tank-Controllor#readme",
+  "dependencies": {
+    "node-static": "^0.7.11",
+    "ws": "^7.1.2"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.1",
+    "utf-8-validate": "^5.0.2"
+  }
+}
